@@ -1,6 +1,6 @@
 # Vehicle Management System — CDAC Mini Project 🚗
 
-A complete, professional, production-grade **Vehicle Management System** built for **CDAC PG-DAC** academic project demonstrations and technical interviews.
+A complete Vehicle Management System developed as a CDAC PGCP-AC academic project and designed to demonstrate full-stack application development.
 
 This application features a fully decoupled architecture: an **ASP.NET Core 8 Web API** backend connected to **Microsoft SQL Server** via **Entity Framework Core 8 Code First**, paired with a modern **React 18 + Vite** frontend styled with a custom **Plain CSS** design system.
 
