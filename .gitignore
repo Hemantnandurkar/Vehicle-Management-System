@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET build output
+bin/
+obj/
+
+# NuGet
+*.nupkg
+packages/
+
+# ASP.NET Core local configuration
+appsettings.Development.json
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test / coverage
+TestResults/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
